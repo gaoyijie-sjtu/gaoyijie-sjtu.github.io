@@ -8,6 +8,7 @@
 
 
 ### [[`Project Page`](https://gaoyijie-sjtu.github.io/AlignGS/)]
+### [[`Paper`](http://arxiv.org/abs/2510.07839)]
 </div>
 
 <!-- <p align="center">
