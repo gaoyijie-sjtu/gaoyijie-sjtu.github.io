@@ -7,7 +7,7 @@
 [Yijie Gao](https://gaoyijie-sjtu.github.io/), [Houqiang Zhong](https://waveviewer.github.io/), Tianchi Zhu, Zhengxue Cheng, Qiang Hu✉, Li Song✉ <br />
 
 
-### [[`Project Page`](https://gaoyijie-sjtu.github.io/AlignGS/)] · [[`Paper`](http://arxiv.org/abs/2510.07839)]
+### [[`Project Page`](https://gaoyijie-sjtu.github.io/AlignGS/)] [[`Paper`](http://arxiv.org/abs/2510.07839)]
 </div>
 
 <!-- <p align="center">
